@@ -1,0 +1,12 @@
+{
+    "name": "aleecode/calc",
+    "description": "Percobaan bikin kalkulator",
+    "authors": [
+        {
+            "name": "aleecode",
+            "email": "aleecode@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
